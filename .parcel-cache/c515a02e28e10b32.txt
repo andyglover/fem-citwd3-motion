@@ -1,0 +1,14 @@
+13
+68C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\README.md133181485011094197 0
+71C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\animation.js133181499813063933 0
+73C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\.gitattributes133181485011099203 0
+63C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist133181499067891416 1
+93C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\fem-citwd3-motion.3464ddca.js133181499067841395 0
+69C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\index.html133181500232024193 0
+68C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\style.css133181495016060223 0
+81C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\index.b75bd955.js133181499067856398 0
+97C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\fem-citwd3-motion.3464ddca.js.map133181499067881410 0
+82C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\index.3a01df49.css133181499067811397 0
+86C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\index.3a01df49.css.map133181499067881410 0
+85C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\index.b75bd955.js.map133181499067886403 0
+74C:\Users\glove\Desktop\programming\repos\fem-citwd3-motion\dist\index.html133181499067831394 0
